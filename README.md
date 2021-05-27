@@ -28,9 +28,11 @@ The Python version was updated to Python 3.8.5 here.</p>
 <p>About the salary, there were same difficulties as explained above for professions. The datasets from 2020 and 2019 used annualy compensation to measure how much each respondent earned in his job, and were used the variable of annualy converted salaries to U$ dollars. In 2017 and 2018 the variable was 'Salary' and in 2017 was only considered the people who earned in U$ dollar, because there wasn't the variable 'converted sallary'. </p>
 	
 # 5. Results
-<p>A blogpost on Medium with my main results can be read here: [](https://natalia-ayumi-moura.medium.com/do-you-need-computer-science-formal-degree-to-become-an-employed-coder-1e847304e830)</p>
+<p>A blogpost on Medium with my main results can be read here: <br>
+["Do you need Computer Science formal degree to become an employed coder?"](https://natalia-ayumi-moura.medium.com/do-you-need-computer-science-formal-degree-to-become-an-employed-coder-1e847304e830)</p>
 
-I hope you like it!
+<p>I hope you like it!</p>
 
 # 4. Licensing, Authors, Acknowledgments  
-I would like to thank to Stack Overflow for providing all of this important datasets about dev community and also for helping me answering all of the "How to..." questions. All the data sets can be donwloaded here (https://insights.stackoverflow.com/survey).
+<p>I would like to thank to Stack Overflow for providing all of this important datasets about dev community and also for helping me answering all of the "How to..." questions. All the data sets can be donwloaded [here]
+    (https://insights.stackoverflow.com/survey).</p>
