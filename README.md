@@ -7,10 +7,10 @@ The Python version was updated to Python 3.8.5 here.
 
 # 2. Project Motivation
   This project used all databases from Stack Overflow Annual Survey from 2017 to 2020. After looking to these databases some questions emerged and they are listed bellow. The main purpose was to evaluate the necessity of having a formal degree in Computer Science or any other related undergrad degree to be a developer or a professional who codes in his daily activities. 
-	1. How important is a formal education, such as a university degree in computer science, to your career?
-	2. Is there any bias in the above opinion depending on their major undergrad?
-	3. What is the proportion between these two type of professionals along the years?
-	4. Depending on your degree, there is difference in salary or compensation if you work coding? How does it is indicated along the time?
+1. How important is a formal education, such as a university degree in computer science, to your career?
+2. Is there any bias in the above opinion depending on their major undergrad?
+3. What is the proportion between these two type of professionals along the years?
+4. Depending on your degree, there is difference in salary or compensation if you work coding? How does it is indicated along the time?
 
 # 3. File Descriptions
    There is just one Jupyter notebook here titled 'coder-evolution'. In this notebook there is the code used to analyse the datas from StackOverflow, so there are data visualization and data processing in it aiming to answer the questions listed above.
