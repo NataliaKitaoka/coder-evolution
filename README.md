@@ -22,6 +22,9 @@ The Python version was updated to Python 3.8.5 here.
    The other assumption is that a person who had a formal degree in Computer Science is someone who had its major undergradute in computer science, information system, web development, computer engineering or any other course that teaches about programming deeply. The others were considered as non computer scientist, even if the person answered with Nan, because in that case probaly for her it wasn't necessry a bachelor or any other formal degree to get a job.
 	About the salary, there were same difficulties as explained above for professions. The datasets from 2020 and 2019 used annualy compensation to measure how much each respondent earned in his job, and were used the variable of annualy converted salaries to U$ dollars. In 2017 and 2018 the variable was 'Salary' and in 2017 was only considered the people who earned in U$ dollar, because there wasn't the variable 'converted sallary'. 
 	
-	
-# 5. Licensing, Authors, Acknowledgements
+#5. Results
+   A blogpost on Medium with my main results can be read here:() https://natalia-ayumi-moura.medium.com/do-you-need-computer-science-formal-degree-to-become-an-employed-coder-1e847304e830
+   I hope you like it!
+    
+#6. Licensing, Authors, Acknowledgements
    I would like to thank to Stack Overflow for providing all of this important datasets about dev community and also for helping me answering all of the "How to..." questions. All the data sets can be donwloaded here (https://insights.stackoverflow.com/survey).
